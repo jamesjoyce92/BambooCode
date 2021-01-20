@@ -42,6 +42,7 @@ class distances:
     def __init__(self, id, dist):
         self.id = id
         self.dist = dist
+        #hello
 
     def messure_info(self):
         return self.id, self.dist
